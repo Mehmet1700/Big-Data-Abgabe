@@ -14,7 +14,7 @@ word_counts = text_file.rdd.flatMap(lambda line: line[0].split(" ")) \
                          .reduceByKey(lambda a, b: a + b)
 
 # Save the word counts to an output file (optional)
-word_counts.saveAsTextFile("word_counts_output")
+word_counts.saveAsTextFile("word_counts_output2")
 
 # Print the word counts
 print("Word Counts:")
