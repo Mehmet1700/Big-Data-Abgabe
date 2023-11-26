@@ -8,6 +8,8 @@ Die Abgabe kann getestet werden indem das Repository geklont wird und die main.p
 Hierzu bitte folgende Befehle in die Konsole eingeben:
 
 ```
+pipenv install
+pipenv shell
 cd src/fifaBeispiel
 python3 main.py
 ```
