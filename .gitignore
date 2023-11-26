@@ -1,0 +1,14 @@
+.idea
+/src/__pycache__
+/src/fifaBeispiel/main/__pycache__
+/src/vorlesungTests/__pycache__
+/src/vorlesungMain/__pycache__
+src/vorlesungTests/vorlesungMain/__pycache__/
+src/vorlesungTests/.DS_Store
+src/.DS_Store
+data/.DS_Store
+.DS_Store
+data/fifa_results_awaywins.csv
+data/fifa_results_mostsuccessful.csv
+data/fifa_results_homewins.csv
+data/fifa_results_awaywins.csv

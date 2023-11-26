@@ -7,7 +7,8 @@ Der Codeteil ist aus der Vorlesung übernommen und wurde nur leicht angepasst.
 
 def main():
     # Import runSpark from fifaBerechnungen.py
-    from src.fifaBeispiel.main.fifaBerchnungen import runSpark
+    from main.fifaBerchnungen import runSpark
+
     # Call runSpark aus der fifaBerechnungen.py Datei
     runSpark()
 
